@@ -1,10 +1,14 @@
 ---
 layout: post
 title: Example Content
+subtitle : 부제목 예시
+tags : 태그
 description: >
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 sitemap: false
 hide_last_modified: true
+categories:
+  - example1
 ---
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
@@ -13,7 +17,7 @@ Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, na
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
-## Inline HTML elements
+# 예시 게시물
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
